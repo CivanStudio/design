@@ -7,7 +7,7 @@
 <h1>Admin Alım Formum İçin yaptığım tasarım</h1>
 <img src="https://user-images.githubusercontent.com/47367048/172041354-ac97033d-0a97-4f53-9fd2-73088e16cd87.png">
 
-<h1>1 0kasım Çalışmam</h1>
+<h1>10 kasım Çalışmam</h1>
 <img style="width:50%;" src="https://user-images.githubusercontent.com/47367048/172041353-db0954dd-fe0d-4385-ab87-1383150a87e4.jpg">
 <h1>19 Mayıs Çalışmam</h1>
 <img src="https://user-images.githubusercontent.com/47367048/172041349-3b3c1827-94a9-401c-af8a-fc12fd5b78cc.png">
